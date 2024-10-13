@@ -1,0 +1,1 @@
+MongoDB is a document database used to build highly available and scalable internet applications.
