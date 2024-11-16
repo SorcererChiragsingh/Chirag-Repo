@@ -7,8 +7,8 @@
 // JavaScript Problem
 // Easy
 
-// T.C = o()
-// S.C = o()
+// T.C = o(n)
+// S.C = o(n)
 
 /** 
 - Given an array arr and a chunk size size, return a chunked array.
